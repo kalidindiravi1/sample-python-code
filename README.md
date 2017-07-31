@@ -5,3 +5,4 @@ Sample Python Code
 3. dateandtime.py
 4. pyglatin.py
 5. planyourtrip.py
+6. dayatthesupermarket.py

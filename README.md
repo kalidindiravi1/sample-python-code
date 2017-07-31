@@ -6,3 +6,4 @@ Sample Python Code
 4. pyglatin.py
 5. planyourtrip.py
 6. dayatthesupermarket.py
+7. studentbecomestheteacher.py

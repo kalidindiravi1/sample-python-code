@@ -7,3 +7,4 @@ Sample Python Code
 5. planyourtrip.py
 6. dayatthesupermarket.py
 7. studentbecomestheteacher.py
+8. battleship.py
